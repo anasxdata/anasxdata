@@ -2,7 +2,8 @@
 ![I'm a Data Analyst](https://media.licdn.com/dms/image/v2/D5616AQEiuFeHe7Qyrw/profile-displaybackgroundimage-shrink_350_1400/B56ZpKjURtH8Ac-/0/1762187364503?e=1763596800&v=beta&t=uqYhiQCMnMWP4uXqTKC4fNVaTMCi4-Zl8hXKAF5TGtg)
 <p>
 😊 I'm a Data Analyst.<br>
-❤️Love to work with data.<br>
+❤️ Love to work with data.<br>
+❤️ Learning new things is my habit
 </p>
 
 
