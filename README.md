@@ -2,7 +2,7 @@
 
 ### Hi, I'm Anas 👋
 #### I'm a Data Analyst
-![Profile views](https://gpvc.arturio.dev/anasxdata)
+
 
 ## About Me:
 I’m a passionate Data Analyst who loves exploring data and uncovering stories hidden within numbers. Data is my comfort zone, and analysis is my secret weapon. I enjoy transforming raw information into meaningful insights that help in smart decision-making.
@@ -11,11 +11,11 @@ I believe every dataset has a story, and my goal is to find it, understand it, a
 
 ## Skills & Experience: 
 
-✅ SQL
-✅ PYTHON
-✅ EXCEL
-✅ POWER BI
-✅ STATISTICS
+✅ SQL<br>
+✅ PYTHON<br>
+✅ EXCEL<br>
+✅ POWER BI<br>
+✅ STATISTICS<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasxdata)](https://github.com/anuraghazra/github-readme-stats)
 
