@@ -2,6 +2,7 @@
 
 ### Hi, I'm Anas 👋
 #### I'm a Data Analyst
+![Profile vicus] (https://gpvc.arturio.dev/anasxdata)
 
 ## About Me:
 I’m a passionate Data Analyst who loves exploring data and uncovering stories hidden within numbers. Data is my comfort zone, and analysis is my secret weapon. I enjoy transforming raw information into meaningful insights that help in smart decision-making.
