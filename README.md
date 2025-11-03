@@ -23,7 +23,7 @@ I believe every dataset has a story, and my goal is to find it, understand it, a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasxdata)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me!
-[<img src='https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg' alt='github' height='40'>](https://github.com/anasxdata)  [<img src='https://github.com/devicons/devicon/raw/master/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anasxdata/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/anasxdata)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/anasxdata/)
+[<img src='https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg' alt='github' height='40'>](https://github.com/anasxdata)  [<img src='https://github.com/devicons/devicon/raw/master/icons/linkedin/linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anasxdata/)  [<img src='https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png' alt='facebook' height='40'>](https://www.facebook.com/anasxdata)  [<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg](https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg)' alt='instagram' height='40'>](https://www.instagram.com/anasxdata/)
 
 ## Email me on!
 📩 anasxdata@gmail.com
