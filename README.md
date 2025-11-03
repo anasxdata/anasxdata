@@ -14,18 +14,18 @@ I have a strong foundation in Python, SQL, and data analysis tools like Excel an
 I believe every dataset has a story, and my goal is to find it, understand it, and use it to make an impact.
 
 ## Skills & Experience: 
-✅ SQL<br>
-✅ PYTHON<br>
-✅ EXCEL<br>
-✅ POWER BI<br>
-✅ STATISTICS<br>
+💾 SQL<br>
+🐍 PYTHON<br>
+📊 EXCEL<br>
+📈 POWER BI<br>
+📐 STATISTICS<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasxdata)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anasxdata)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anasxdata/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/anasxdata)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/anasxdata/)
 
-## Email me
+## Email me on!
 📩 anasxdata@gmail.com
 
 
