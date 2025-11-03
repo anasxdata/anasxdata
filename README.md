@@ -1,11 +1,21 @@
 ### Hi there 👋, Hi, I'm Anas 👋
-(https://media.licdn.com/dms/image/v2/D5616AQG2Sbb8nt63zg/profile-displaybackgroundimage-shrink_350_1400/B56ZpKeeHEHQAc-/0/1762186094606?e=1763596800&v=beta&t=0KpCsPJOLmyjGobM4g0yfa4yd6lzkw2_EVDwB5rGJLc)
+#### I'm a Data Analyst
+![I'm a Data Analyst](https://media.licdn.com/dms/image/v2/D5616AQEiuFeHe7Qyrw/profile-displaybackgroundimage-shrink_350_1400/B56ZpKjURtH8Ac-/0/1762187364503?e=1763596800&v=beta&t=uqYhiQCMnMWP4uXqTKC4fNVaTMCi4-Zl8hXKAF5TGtg)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I’m a passionate Data Analyst who loves exploring data and uncovering stories hidden within numbers. Data is my comfort zone, and analysis is my secret weapon. I enjoy transforming raw information into meaningful insights that help in smart decision-making.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+I have a strong foundation in Python, SQL, and data analysis tools like Excel and Power BI. I’m continuously learning libraries such as Pandas, NumPy, Matplotlib, and Seaborn to sharpen my analytical skills and create data-driven solutions.
 
-- 🔭 I’m currently working on this page. 
+I believe every dataset has a story, and my goal is to find it, understand it, and use it to make an impact.
+
+Skills: ✅ SQL  ✅PYTHON  ✅ EXCEL✅ POWER BI
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anasxdata)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anasxdata/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/anasxdata)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/anasxdata/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasxdata)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
