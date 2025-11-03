@@ -16,7 +16,7 @@ I have a strong foundation in Python, SQL, and data analysis tools like Excel an
 I believe every dataset has a story and my goal is to find it, understand it and use it to make an impact.
 
 ## Skills & Experience: 
-💾 SQL<br>
+💾 MySQL<br>
 🐍 PYTHON<br>
 📊 EXCEL<br>
 📈 POWER BI<br>
