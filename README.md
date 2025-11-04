@@ -3,7 +3,7 @@
 <p>
 😊 I'm a Data Analyst.<br>
 ❤️ Love to work with data.<br>
-🌱 Learning new things is my habit
+🌱 Learning new things is my habit.
 </p>
 
 
